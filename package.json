@@ -1,0 +1,22 @@
+{
+  "name": "express-basic1-cw-tdude0175",
+  "version": "1.0.0",
+  "description": "Start a new Node/Express app from scratch and do all of the requirements below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2019-spring/express-basic1-cw-tdude0175.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2019-spring/express-basic1-cw-tdude0175/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2019-spring/express-basic1-cw-tdude0175#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

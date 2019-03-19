@@ -1,0 +1,17 @@
+h1
+{
+    /*centers text in h1 tags to the middle of the page*/
+    text-align: center;
+}
+
+h3
+{
+    /*centers text in h3 tags to middle of the page*/
+    text-align: center;
+}
+body
+{
+    /**/
+    background: blue;
+    color: red;
+}
