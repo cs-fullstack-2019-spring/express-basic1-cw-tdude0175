@@ -3,13 +3,16 @@
 Start a new Node/Express app from scratch and do all of the requirements below:
 
 ### Exercise 1
-Create a route that says “[YOUR NAME] created a server here!” at the root of your server.
+Make the root endpoint says “[YOUR NAME] created a server here!” got a get request.
 
 ### Exercise 2
-Create a route that says “[YOUR NAME] got a POST request!!!”
+Make the root endpoint to says “[YOUR NAME] got a POST request!!!” for a post request.
 
 ### Exercise 3
-Create a route that shows a picture of yourself at index/[picName]
+Create a route that shows a picture of yourself at LOCALHOST/[picName]
 
 ### Exercise 4
-Create a route that shows a public HTML file that has at least two elements in it and a separate css file linked to it.
+Create a route that shows a public HTML file that has an h1, h3, and an img tag in it.
+
+### Exercise 5
+Change the root index to say "Welcome to Code School" centered on the page. Change the background of the index to be blue and the text to be red.
