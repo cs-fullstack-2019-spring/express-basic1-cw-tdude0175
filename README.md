@@ -16,3 +16,5 @@ Create a route that shows a public HTML file that has an h1, h3, and an img tag 
 
 ### Exercise 5
 Change the root index to say "Welcome to Code School" centered on the page. Change the background of the index to be blue and the text to be red.
+<hr>
+2 points.
